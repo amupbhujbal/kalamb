@@ -1,0 +1,228 @@
+
+
+h1{
+  color: white;
+font-family: serif;
+}
+
+h2{
+  color: #005ce6;
+}
+
+
+#last {
+  background-image: url('2.jpg');
+}
+
+.container-fluid
+
+{
+
+}
+
+#sent{
+
+padding-top: 3%;
+margin-top: 2%;
+  background-image: url("a.jpg");
+
+margin-bottom: 3%;
+
+  color: #005ce6;
+
+}
+
+.responsive
+{
+  text-align: left;
+  border-radius: 20%;
+  width: 100%;
+  height: auto;
+}
+
+
+
+#intro{
+  text-align: center;
+}
+
+.intro1
+{
+  margin-left: 7%;
+}
+
+#btnn
+{
+text-align: center;
+}
+
+
+.btn {
+  padding: 8px 22px;
+}
+
+.btn:hover {
+  background-color: #ced4da;
+}
+
+.tm-section-pad-top {
+  padding-top: 125px;
+}
+
+.tm-text-primary {
+  color: #3496d8;
+}
+
+.tm-font-big {
+  font-size: 1.25rem;
+}
+
+.tm-btn-primary {
+  color: white;
+  background-color: #3496d8;
+  padding: 14px 35px;
+  border-radius: 30px;
+}
+
+.tm-btn-primary:hover,
+.tm-btn-primary:focus {
+  color: white;
+  background-color: #73c1f6;
+}
+
+
+
+#contact{
+text-align: center;
+background-color:#66a3ff;
+
+
+}
+
+
+footer{
+  background-color: #0080ff;
+  text-align: center;
+  color: white;
+}
+
+
+
+.fas{
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+#middle{
+  background-color:#4da6ff;
+
+
+}
+
+
+#tourist
+{
+  color:white;
+
+}
+
+
+
+
+#help{
+
+background-color:#4da6ff;
+ padding:  5% 15%;
+
+}
+
+.tm-underline-inner{
+
+  background-color: white;
+  width: 105%;
+height: 5px;
+
+
+}
+
+
+
+  .button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: blue;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: blue}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+#left
+
+{
+  text-align: left;
+}
+.google-maps {
+        position: relative;
+        padding-bottom: 40%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+      }
